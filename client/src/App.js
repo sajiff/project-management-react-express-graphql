@@ -37,8 +37,14 @@ function App() {
           <Header />
           <div className="container">
             <Routes>
-              <Route path="/" element={<Home />} />
-              <Route path="/project/:id" element={<Project />} />
+              <Route
+                path="project-management-react-express-graphql/"
+                element={<Home />}
+              />
+              <Route
+                path="project-management-react-express-graphql/project/:id"
+                element={<Project />}
+              />
               <Route path="*" element={<NotFound />} />
             </Routes>
           </div>
