@@ -5,4 +5,6 @@ backend: Node, Express, graphql
 
 database: mongoDB
 
-link: https://sajiff.github.io/project-management-react-express-graphql/
+client link: https://sajiff.github.io/project-management-react-express-graphql/
+
+server link: https://project-management-react-express-graphql-client-uihz.vercel.app/
