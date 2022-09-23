@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/project-management-react-express-graphql/static/css/main.c93edd88.css",
-    "main.js": "/project-management-react-express-graphql/static/js/main.fb1ff95e.js",
+    "main.js": "/project-management-react-express-graphql/static/js/main.5f60f08f.js",
     "static/js/787.c4e7f8f9.chunk.js": "/project-management-react-express-graphql/static/js/787.c4e7f8f9.chunk.js",
     "index.html": "/project-management-react-express-graphql/index.html",
     "main.c93edd88.css.map": "/project-management-react-express-graphql/static/css/main.c93edd88.css.map",
-    "main.fb1ff95e.js.map": "/project-management-react-express-graphql/static/js/main.fb1ff95e.js.map",
+    "main.5f60f08f.js.map": "/project-management-react-express-graphql/static/js/main.5f60f08f.js.map",
     "787.c4e7f8f9.chunk.js.map": "/project-management-react-express-graphql/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c93edd88.css",
-    "static/js/main.fb1ff95e.js"
+    "static/js/main.5f60f08f.js"
   ]
 }
