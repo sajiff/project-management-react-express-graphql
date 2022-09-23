@@ -7,7 +7,10 @@ export default function NotFound() {
       <FaExclamationTriangle className="text-danger" size="5em" />
       <h1>404</h1>
       <p className="lead">Sorry, this page does not exist</p>
-      <Link to="/" className="btn btn-danger">
+      <Link
+        to="project-management-react-express-graphql/"
+        className="btn btn-danger"
+      >
         Go Home
       </Link>
     </div>

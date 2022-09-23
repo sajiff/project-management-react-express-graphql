@@ -9,7 +9,7 @@ export default function DeleteProjectButton({ projectId }) {
 
   const [deleteProject] = useMutation(DELETE_PROJECT, {
     variables: { id: projectId },
-    onCompleted: () => navigate("/"),
+    onCompleted: () => navigate("/project-management-react-express-graphql/"),
     refetchQueries: [{ query: GET_PROJECTS }],
   });
 
